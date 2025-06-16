@@ -467,3 +467,18 @@
     }
   }
 }
+
+// ======================================= Footer ==========================================
+
+footer {
+  h1 {
+    font-size: 20px;
+    font-weight: 700;
+  }
+  ul {
+    padding-inline-start: 0;
+    li {
+      list-style-type: none;
+    }
+  }
+}
